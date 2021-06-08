@@ -34,7 +34,7 @@ Normal or attack detection
 
 Main attack types detection
 |----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_2.png" width="220" height="310" /> |
+|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_2.png" width="210" height="310" /> |
 
 &nbsp;
 
