@@ -28,13 +28,13 @@ Cloning a repository syncs it to our local machine (Example for Linux-based OS).
 
 Normal or attack detection
 |----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_1.png" width="400" height="500" /> |
+|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_1.png" width="300" height="400" /> |
 
 &nbsp;
 
 Main attack types detection
 |----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_2.png" width="400" height="600" /> |
+|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_2.png" width="300" height="450" /> |
 
 &nbsp;
 
