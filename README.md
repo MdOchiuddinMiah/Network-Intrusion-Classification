@@ -26,17 +26,21 @@ Cloning a repository syncs it to our local machine (Example for Linux-based OS).
 
 ### 2. How does it works (Machine Learning Perspective)?
 
-Normal or attack detection:
+Normal or attack detection
 |----------------------|
 |<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_1.png" width="450" height="600" /> |
 
-Main attack types detection:
-|----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_2.png" width="450" height="600" /> |
+&nbsp;
 
-Final attack/ intrusion detection:
+Main attack types detection
 |----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_3.png" width="450" height="600" /> |
+|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_2.png" width="450" height="650" /> |
+
+&nbsp;
+
+Final attack/ intrusion detection
+|----------------------|
+|<img align="center" src="https://github.com/MdOchiuddinMiah/Network-Intrusion-Classification/blob/main/ids_block_3.png" width="450" height="650" /> |
 
 &nbsp;
 
